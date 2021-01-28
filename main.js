@@ -62,4 +62,12 @@ saveBtn.on("click", function(){
 // THEN the saved events persist
 // -----------------------------------------------------------------------------------------------//
 //**For each text-area class, get data from local storage and populate as text string */
-//  $(“#hour-9 .description”).val(localStorage.getItem(“9”));
+ $("#9 .description").val(localStorage.getItem("9"))
+ $("#10 .description").val(localStorage.getItem("10"))
+ $("#11 .description").val(localStorage.getItem("11"))
+ $("#12 .description").val(localStorage.getItem("12"))
+ $("#13 .description").val(localStorage.getItem("1"))
+ $("#14 .description").val(localStorage.getItem("2"))
+ $("#15 .description").val(localStorage.getItem("3"))
+ $("#16 .description").val(localStorage.getItem("4"))
+ $("#17 .description").val(localStorage.getItem("5"))
