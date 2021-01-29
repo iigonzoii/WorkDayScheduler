@@ -14,7 +14,7 @@ $(document).ready(function (){
                 // $(this).removeClass("past");
                 $(this).addClass("present");
             }
-            else if (currentHour < blockHour) {
+            else if (currentHour > blockHour) {
                 // $(this).removeClass("future");
                 $(this).removeClass("present");
                 $(this).addClass("past");
