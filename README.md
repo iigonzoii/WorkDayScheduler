@@ -1,6 +1,6 @@
 # WorkDayScheduler
 
-<img src="./assets/images/wds.jpg" alt = "planner that changes color according to time of work day">
+<img src="./images/wds.jpg" alt = "planner that changes color according to time of work day">
 
 ## Motivation.
 
